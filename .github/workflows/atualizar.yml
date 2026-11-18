@@ -1,0 +1,50 @@
+name: Atualizar painel
+
+on:
+  schedule:
+    - cron: "15 9 * * *"   # 09:15 UTC = 06:15 em Brasília
+  workflow_dispatch:
+    inputs:
+      anos:
+        description: "Anos a coletar, separados por espaço (vazio = ano corrente; aos domingos inclui o anterior)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar convênios e parcerias
+        env:
+          ANOS: ${{ inputs.anos }}
+        run: |
+          if [ -n "$ANOS" ]; then python -u scripts/coletar.py --anos $ANOS; else python -u scripts/coletar.py --auto; fi
+      - name: Salvar dados no repositório
+        run: |
+          git config user.name "painel-convenios-rs"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then echo "sem mudanças"; else git commit -m "Atualiza dados ($(date -u +%F))" && git push; fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4

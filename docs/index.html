@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Painel de Convênios e Parcerias do RS</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1b2430;--mut:#5d6b7c;--line:#dfe3e8;--accent:#0b5cad;--accent-ink:#fff;--soft:#e8f1fb;--ok:#1f7a4d;--warn:#b45309;--bad:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#10151c;--card:#18202a;--ink:#e8edf3;--mut:#9aa7b6;--line:#2a3441;--accent:#5aa2e8;--accent-ink:#08121e;--soft:#1b2a3b;--ok:#4cc38a;--warn:#f0a53a;--bad:#ff8a80}}
+*{box-sizing:border-box}body{margin:0;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{padding:18px 20px;border-bottom:1px solid var(--line);background:var(--card)}
+h1{margin:0;font-size:20px}header p{margin:4px 0 0;color:var(--mut);font-size:13px}
+.wrap{display:grid;grid-template-columns:270px 1fr;gap:18px;padding:18px 20px;max-width:1500px;margin:auto}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}}
+aside{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;align-self:start}
+aside label{display:block;font-size:12px;font-weight:600;color:var(--mut);margin:12px 0 4px}aside label:first-child{margin-top:0}
+input,select,button{font:inherit;color:var(--ink)}
+input[type=text],input[type=number],input[type=date],select{width:100%;padding:8px 9px;border:1px solid var(--line);border-radius:7px;background:var(--bg)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.btn{border:1px solid var(--line);background:var(--card);padding:7px 11px;border-radius:7px;cursor:pointer}
+.btn:hover{border-color:var(--accent)}.btn.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+#areas{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:14px}
+#areas .btn{font-size:13px;padding:6px 10px}#areas .btn small{opacity:.75;margin-left:4px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin-bottom:14px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 13px}
+.kpi b{display:block;font-size:20px}.kpi span{font-size:12px;color:var(--mut)}
+.bar{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:10px;color:var(--mut);font-size:13px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:13px 15px;margin-bottom:10px}
+.card h3{margin:0 0 2px;font-size:15px}.card .sub{color:var(--mut);font-size:13px}
+.card p{margin:8px 0}.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--mut)}.meta b{color:var(--ink)}
+.tag{display:inline-block;font-size:11px;padding:2px 7px;border-radius:99px;background:var(--soft);color:var(--accent);margin:0 5px 0 0;font-weight:600}
+.tag.n{background:var(--accent);color:var(--accent-ink)}.tag.v{background:transparent;border:1px solid var(--ok);color:var(--ok)}.tag.x{background:transparent;border:1px solid var(--line);color:var(--mut)}
+.pg{display:flex;gap:6px;justify-content:center;margin:16px 0}
+.empty{padding:40px;text-align:center;color:var(--mut)}
+footer{padding:20px;text-align:center;color:var(--mut);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Convênios e Parcerias do Estado do RS</h1>
+  <p>Instrumentos celebrados, do Portal de Convênios e Parcerias RS (FPE/CAGE). <span id="upd"></span></p>
+</header>
+<div class="wrap">
+<aside>
+  <label for="q">Buscar no objeto, convenente ou município</label>
+  <input type="text" id="q" placeholder="ex.: pavimentação, escola, Santa Maria">
+  <label for="tp">Tipo</label><select id="tp"></select>
+  <label for="an">Ano</label><select id="an"></select>
+  <label for="cc">Órgão concedente</label><select id="cc"></select>
+  <label for="mu">Município</label><select id="mu"></select>
+  <label for="vg">Vigência</label>
+  <select id="vg"><option value="">Todas</option><option value="vig">Vigentes hoje</option><option value="venc">Encerradas</option><option value="60">Vencem em até 60 dias</option></select>
+  <label>Valor conveniado (R$)</label>
+  <div class="row2"><input type="number" id="v1" placeholder="mín."><input type="number" id="v2" placeholder="máx."></div>
+  <label>Assinado entre (quando disponível)</label>
+  <div class="row2"><input type="date" id="d1"><input type="date" id="d2"></div>
+  <label for="so">Ordenar por</label>
+  <select id="so"><option value="num">Mais recentes (número)</option><option value="val">Maior valor</option><option value="fim">Vigência que termina antes</option><option value="det">Detectados recentemente</option></select>
+  <div style="margin-top:14px"><button class="btn" id="lim" type="button">Limpar filtros</button></div>
+</aside>
+<main>
+  <div id="areas"></div>
+  <div class="kpis" id="kpis"></div>
+  <div class="bar"><span id="cnt"></span><button class="btn" id="csv" type="button">Baixar CSV do resultado</button></div>
+  <div id="list"></div>
+  <div class="pg" id="pg"></div>
+</main>
+</div>
+<footer>Dados públicos coletados diariamente. A data de assinatura e o objeto completo são obtidos aos poucos na tela de detalhe de cada instrumento.</footer>
+<script>
+(function(){
+var $=function(i){return document.getElementById(i)};
+var OUTROS='Outros (sem tema definido)', PER=25, all=[], AREAS=[], st={area:'',page:1};
+var brl=function(v){return (v||0).toLocaleString('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0})};
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+var norm=function(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')};
+var pd=function(s){var m=/^(\d{2})\/(\d{2})\/(\d{4})$/.exec(s||'');return m?new Date(+m[3],+m[2]-1,+m[1]).getTime():0};
+var hoje=new Date();hoje.setHours(0,0,0,0);hoje=hoje.getTime();
+function uniq(f){var o={};all.forEach(function(p){var v=f(p);if(v)o[v]=1});return Object.keys(o).sort(function(a,b){return a.localeCompare(b,'pt-BR')})}
+function opts(list,todos){return '<option value="">'+todos+'</option>'+list.map(function(v){return '<option>'+esc(v)+'</option>'}).join('')}
+function prepare(d){
+  all=d.map(function(p){p.ars=p.ar&&p.ar.length?p.ar:[OUTROS];p.i=pd(p.vi);p.f=pd(p.vf);p.sg=pd(p.as);
+    p.txt=norm([p.o,p.cv,p.m,p.cc,p.pg,p.k].join(' '));return p});
+  AREAS=Array.from(new Set(all.reduce(function(a,p){return a.concat(p.ars)},[]))).filter(function(a){return a!==OUTROS}).sort(function(a,b){return a.localeCompare(b,'pt-BR')}).concat([OUTROS]);
+  $('tp').innerHTML=opts(uniq(function(p){return p.t}),'Convênios e parcerias');
+  $('an').innerHTML=opts(uniq(function(p){return String(p.a)}).reverse(),'Todos');
+  $('cc').innerHTML=opts(uniq(function(p){return p.cc}),'Todos');
+  $('mu').innerHTML=opts(uniq(function(p){return p.m}),'Todos');
+  render();
+}
+function filtered(skipArea){
+  var q=norm($('q').value).split(/\s+/).filter(Boolean),tp=$('tp').value,an=$('an').value,cc=$('cc').value,mu=$('mu').value,vg=$('vg').value;
+  var v1=parseFloat($('v1').value),v2=parseFloat($('v2').value),d1=$('d1').value?new Date($('d1').value+'T00:00').getTime():0,d2=$('d2').value?new Date($('d2').value+'T23:59').getTime():0;
+  return all.filter(function(p){
+    if(tp&&p.t!==tp)return false;if(an&&String(p.a)!==an)return false;if(cc&&p.cc!==cc)return false;if(mu&&p.m!==mu)return false;
+    if(!skipArea&&st.area&&p.ars.indexOf(st.area)<0)return false;
+    if(vg==='vig'&&!(p.i<=hoje&&p.f>=hoje))return false;if(vg==='venc'&&!(p.f&&p.f<hoje))return false;
+    if(vg==='60'&&!(p.f>=hoje&&p.f<=hoje+60*864e5))return false;
+    if(!isNaN(v1)&&p.vc<v1)return false;if(!isNaN(v2)&&p.vc>v2)return false;
+    if(d1||d2){if(!p.sg)return false;if(d1&&p.sg<d1)return false;if(d2&&p.sg>d2)return false}
+    for(var i=0;i<q.length;i++)if(p.txt.indexOf(q[i])<0)return false;return true})}
+function topN(arr,f,n){var o={};arr.forEach(function(p){var k=f(p);if(k)o[k]=(o[k]||0)+p.vc});return Object.keys(o).sort(function(a,b){return o[b]-o[a]}).slice(0,n).map(function(k){return[k,o[k]]})}
+function render(){
+  var base=filtered(true),res=filtered(false),cont={};
+  base.forEach(function(p){p.ars.forEach(function(a){cont[a]=(cont[a]||0)+1})});
+  $('areas').innerHTML='<button class="btn'+(st.area?'':' on')+'" data-a="">Todas as áreas <small>'+base.length+'</small></button>'+AREAS.filter(function(a){return cont[a]}).map(function(a){return '<button class="btn'+(st.area===a?' on':'')+'" data-a="'+esc(a)+'">'+esc(a)+'<small>'+cont[a]+'</small></button>'}).join('');
+  var tot=res.reduce(function(s,p){return s+p.vc},0),pago=res.reduce(function(s,p){return s+p.vp},0),tm=topN(res,function(p){return p.m},1)[0],tc=topN(res,function(p){return p.cc},1)[0];
+  $('kpis').innerHTML='<div class="kpi"><b>'+res.length.toLocaleString('pt-BR')+'</b><span>instrumentos</span></div><div class="kpi"><b>'+brl(tot)+'</b><span>valor conveniado</span></div><div class="kpi"><b>'+brl(pago)+'</b><span>valor já pago</span></div>'+(tc?'<div class="kpi"><b style="font-size:14px">'+esc(tc[0])+'</b><span>maior concedente ('+brl(tc[1])+')</span></div>':'')+(tm?'<div class="kpi"><b style="font-size:14px">'+esc(tm[0])+'</b><span>maior município ('+brl(tm[1])+')</span></div>':'');
+  var so=$('so').value;
+  res.sort(function(a,b){
+    if(so==='val')return b.vc-a.vc;if(so==='fim')return (a.f||9e15)-(b.f||9e15);
+    if(so==='det')return String(b.dt||'').localeCompare(String(a.dt||''))||(b.a-a.a)||(b.n>a.n?1:-1);
+    return (b.a-a.a)||(b.n>a.n?1:b.n<a.n?-1:0)});
+  var pages=Math.max(1,Math.ceil(res.length/PER));if(st.page>pages)st.page=pages;
+  var slice=res.slice((st.page-1)*PER,st.page*PER);
+  $('cnt').textContent=res.length.toLocaleString('pt-BR')+' resultado(s)';
+  $('list').innerHTML=slice.length?slice.map(card).join(''):'<div class="empty">Nenhum instrumento encontrado com esses filtros.</div>';
+  var h='';if(pages>1){h+='<button class="btn" data-p="'+Math.max(1,st.page-1)+'">‹</button><span style="align-self:center;color:var(--mut)">'+st.page+' / '+pages+'</span><button class="btn" data-p="'+Math.min(pages,st.page+1)+'">›</button>'}
+  $('pg').innerHTML=h;
+}
+function card(p){
+  var novo=p.dt&&(Date.now()-new Date(p.dt+'T12:00').getTime())<7*864e5;
+  var vig=p.f?(p.f<hoje?'<span class="tag x">Encerrado</span>':'<span class="tag v">Vigente</span>'):'';
+  return '<div class="card"><h3>'+(novo?'<span class="tag n">Novo</span>':'')+esc(p.t)+' '+esc(p.n)+' · '+esc(p.cv)+'</h3>'
+  +'<div class="sub">'+esc(p.cc)+' → '+esc(p.m)+'</div><p>'+esc(p.o)+'</p>'
+  +'<div class="meta"><span>Conveniado <b>'+brl(p.vc)+'</b></span><span>Pago <b>'+brl(p.vp)+'</b></span><span>A pagar <b>'+brl(p.va)+'</b></span><span>Vigência <b>'+esc(p.vi)+' a '+esc(p.vf)+'</b></span>'+(p.as?'<span>Assinado <b>'+esc(p.as)+'</b></span>':'')+(p.sit?'<span>Situação <b>'+esc(p.sit)+'</b></span>':'')+'</div>'
+  +'<div style="margin-top:8px">'+vig+p.ars.map(function(a){return '<span class="tag">'+esc(a)+'</span>'}).join('')+(p.tp?'<span class="tag x">'+esc(p.tp)+'</span>':'')+'</div></div>'}
+function csv(){
+  var res=filtered(false),c=['Tipo','Número','Concedente','Convenente','Município','Valor conveniado','Valor pago','Valor a pagar','Vigência início','Vigência fim','Assinatura','Situação','Áreas','Objeto'];
+  var q=function(s){return '"'+String(s==null?'':s).replace(/"/g,'""')+'"'};
+  var l=[c.map(q).join(';')].concat(res.map(function(p){return [p.t,p.n,p.cc,p.cv,p.m,String(p.vc).replace('.',','),String(p.vp).replace('.',','),String(p.va).replace('.',','),p.vi,p.vf,p.as||'',p.sit||'',p.ars.join(', '),p.o].map(q).join(';')}));
+  var a=document.createElement('a');a.href=URL.createObjectURL(new Blob(['﻿'+l.join('\r\n')],{type:'text/csv;charset=utf-8'}));a.download='convenios_rs.csv';document.body.appendChild(a);a.click();a.remove()}
+['q','tp','an','cc','mu','vg','v1','v2','d1','d2','so'].forEach(function(i){$(i).addEventListener(i==='q'||/^[vd]\d$/.test(i)?'input':'change',function(){st.page=1;render()})});
+$('lim').addEventListener('click',function(){['q','v1','v2','d1','d2'].forEach(function(i){$(i).value=''});['tp','an','cc','mu','vg'].forEach(function(i){$(i).value=''});$('so').value='num';st.area='';st.page=1;render()});
+$('areas').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;st.area=b.getAttribute('data-a')||'';st.page=1;render()});
+$('pg').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;st.page=+b.getAttribute('data-p');render();window.scrollTo(0,0)});
+$('csv').addEventListener('click',csv);
+fetch('meta.json').then(function(r){return r.json()}).then(function(m){if(m.atualizado_em){var d=new Date(m.atualizado_em);$('upd').textContent='Última atualização: '+d.toLocaleDateString('pt-BR')+' às '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})+'.'}}).catch(function(){});
+fetch('data.json').then(function(r){return r.json()}).then(prepare).catch(function(){$('list').innerHTML='<div class="empty">Não foi possível carregar os dados.</div>'});
+})();
+</script>
+</body>
+</html>
