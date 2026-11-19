@@ -1,4 +1,299 @@
 {
- "gerado_em": "2026-11-18T09:22-03:00",
- "novos": []
+ "gerado_em": "2026-11-19T15:17-03:00",
+ "novos": [
+  {
+   "k": "C 2026/1263",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "PREF MUN DE SERTAO SANTANA",
+   "m": "SERTAO SANTANA",
+   "vc": 41666.67,
+   "vi": "16/11/2026",
+   "vf": "16/11/2027",
+   "o": "O projeto de melhoria do espaço público prevê a aquisição de brinquedos para praça, localizada junto ao Parque Esportivo Municipal. Serão adquiridos 04 brinquedos para praça, um Playground mundo animal, um balanço em ferro triplo, uma gangorra tripla em ferro e um gira-gira. A contrapartida será financeira, complementando o valor de repasse para a ”Aquisição de Brinquedos para Praça junto ao parque Esportivo Municipal”, no valor de R$ 9.906,64 (nove mil, novecentos e seis reais, com sessenta e quatro centavos). Serão beneficiadas aproximadamente 1500 pessoas por ano.",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Cultura, esporte e turismo",
+    "Proteção animal",
+    "Obras e infraestrutura"
+   ],
+   "as": "12/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/1387",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE BARAO DO TRIUNFO",
+   "m": "BARAO DO TRIUNFO",
+   "vc": 100000.0,
+   "vi": "23/10/2026",
+   "vf": "22/10/2028",
+   "o": "Apoio e Desenvolvimento das Pequenas e Médias Propriedades Rurais do Município.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/1446",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE DONA FRANCISCA",
+   "m": "DONA FRANCISCA",
+   "vc": 100000.0,
+   "vi": "23/10/2026",
+   "vf": "22/10/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/1526",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE MONTENEGRO",
+   "m": "MONTENEGRO",
+   "vc": 100000.0,
+   "vi": "11/08/2026",
+   "vf": "18/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa da pessoa idosa por meio de oficinas",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "07/08/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/4441",
+   "t": "Convênio",
+   "cc": "DEPARTAMENTO AUTONOMO DE ESTRADAS DE RODAGEM",
+   "cv": "MUNICIPIO DE CANDELARIA",
+   "m": "CANDELARIA",
+   "vc": 0.0,
+   "vi": "28/10/2026",
+   "vf": "27/10/2031",
+   "o": "A execução de serviços de desassoreamento em dois trechos críticos do Rio Pardo adjacentes à rodovia VRS-858, no município,",
+   "ar": [
+    "Transportes e rodovias"
+   ],
+   "as": "27/10/2026",
+   "tp": "",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/2405",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE CAPAO DO LEAO",
+   "m": "CAPAO DO LEAO",
+   "vc": 48120.0,
+   "vi": "23/10/2026",
+   "vf": "22/10/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "20/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/2779",
+   "t": "Convênio",
+   "cc": "DEPARTAMENTO AUTONOMO DE ESTRADAS DE RODAGEM",
+   "cv": "MUNICIPIO DE CAXIAS DO SUL",
+   "m": "CAXIAS DO SUL",
+   "vc": 14990217.04,
+   "vi": "04/11/2026",
+   "vf": "03/11/2028",
+   "o": "Execução de interseção viária em desnível e melhorias viárias no município de Caxias do Suj",
+   "ar": [
+    "Transportes e rodovias",
+    "Obras e infraestrutura"
+   ],
+   "as": "29/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/2897",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE DOIS IRMAOS",
+   "m": "DOIS IRMAOS",
+   "vc": 48979.0,
+   "vi": "22/10/2026",
+   "vf": "22/10/2027",
+   "o": "Aumentar a produtividade e fortalecimento da Agricultura Familiar",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "20/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/0872",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO URBANO E METROPO",
+   "cv": "PREF MUN DE MATO QUEIMADO",
+   "m": "MATO QUEIMADO",
+   "vc": 51257.14,
+   "vi": "18/11/2026",
+   "vf": "19/04/2027",
+   "o": "Revitalização de Passeio Público, Rua Miguel Eugênio Welter e Av. Albino Welter, Mato Queimado/RS",
+   "ar": [
+    "Habitação e urbanismo"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/3511",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE PORTO XAVIER",
+   "m": "PORTO XAVIER",
+   "vc": 100000.0,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "Fortalecimento da rede de promoção proteção e defesa de direitos de pessoas idosas por meio de ações integradas a saúde",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Saúde"
+   ],
+   "as": "11/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/0950",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE QUINZE DE NOVEMBRO",
+   "m": "QUINZE DE NOVEMBRO",
+   "vc": 150000.0,
+   "vi": "21/07/2026",
+   "vf": "18/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa de direitos de pessoas idosas, por meio de equipagem do Centro",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "20/07/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/0791",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO URBANO E METROPO",
+   "cv": "PREF MUN DE SALVADOR DAS MISSOES",
+   "m": "SALVADOR DAS MISSOES",
+   "vc": 51257.14,
+   "vi": "18/11/2026",
+   "vf": "17/11/2027",
+   "o": "Revitalização de Passeios Públicos Através do Assentamento de Pedras Cimentícias,",
+   "ar": [
+    "Habitação e urbanismo"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/4541",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "PREF MUN DE SANTA MARIA",
+   "m": "SANTA MARIA",
+   "vc": 0.0,
+   "vi": "18/11/2026",
+   "vf": "17/05/2027",
+   "o": "Constitui objeto do presente Termo de Cooperação Técnica a conjugação de esforços entre os partícipes a fim de possibilitar a colaboração mútua, visando à execução de serviços de recuperação de estradas vicinais, desassoreamento de rios e córregos, remoção de materiais e reconstruções de pontilhões e demais serviços originados de desastres climáticos, mediante disponibilização de horas máquinas, conforme ordem de serviço a ser emitida pela SEAPI, para atendimento aos municípios em situação de emergência ou calamidade pública, ocasionadas por desastres climáticos que interfiram na mobilidade e funcionamentos das comunidades rurais.",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "18/11/2026",
+   "tp": "",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/3739",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE SEGREDO",
+   "m": "SEGREDO",
+   "vc": 100000.0,
+   "vi": "18/11/2026",
+   "vf": "17/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa dos direitos de pessoas idosas por meio de atividades.",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "12/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "C 2026/3734",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE TURUCU",
+   "m": "TURUCU",
+   "vc": 86571.43,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa dos direitos de pessoas idosas por meio da aquisição de veiculo.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Transportes e rodovias"
+   ],
+   "as": "11/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-19"
+  },
+  {
+   "k": "P 2026/2848",
+   "t": "Parceria",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "ESPORTE CLUBE ALIANCA",
+   "m": "MARATA",
+   "vc": 50000.0,
+   "vi": "16/11/2026",
+   "vf": "13/11/2027",
+   "o": "Aquisição de equipamentos para a sede da entidade, visando qualificar sua estrutura e apoiar o desenvolvimento das atividades esportivas e sociais.",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "13/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-19"
+  }
+ ]
 }
