@@ -1,6 +1,557 @@
 {
- "gerado_em": "2026-11-19T15:17-03:00",
+ "gerado_em": "2026-11-20T14:48-03:00",
  "novos": [
+  {
+   "k": "C 2026/1638",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE ITAQUI",
+   "m": "ITAQUI",
+   "vc": 120000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Qualificar o atendimento do CRAS de Itaqui, através de aquisição de equipamentos.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Assistência social"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4260",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "MUNICIPIO DE AMARAL FERRADOR",
+   "m": "AMARAL FERRADOR",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2031",
+   "o": "O Termo de Cooperação tem por objeto a execução das ações do Estado para o Fomento à Produção Animal, à Defesa Sanitária, à Zootecnia, à Inspeção e à Fiscalização de Produtos de Origem Animal, justificando-se pela necessidade de incrementar a realização dos serviços de inspeção sanitária e industrial de produtos de origem animal, e de fiscalização e defesa sanitária animal, no Município, por meio da Inspetoria de Defesa Agropecuária responsável pelo Município, atividades estas que se constituem na meta do presente Termo e serão diretamente supervisionadas pela Coordenadoria Regional responsável pela Região.",
+   "ar": [
+    "Tributário e fiscal",
+    "Agropecuária e rural",
+    "Economia, trabalho e empresas",
+    "Proteção animal"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4049",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE BARAO DO TRIUNFO",
+   "m": "BARAO DO TRIUNFO",
+   "vc": 41666.0,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Estruturação da patrulha agrícola mecanizada para prestação de serviços qualificada aos agricultores familiares que necessitem atividades mecanizadas para o incremento da produção.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "29/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3561",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE BARRA DO GUARITA",
+   "m": "BARRA DO GUARITA",
+   "vc": 90700.73,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Aquisição de equipamentos e contratação de oficineiros para promoção do bem-estar e inclusão social dos idosos.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4676",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "PREF MUN DE CAPAO DO CIPO",
+   "m": "CAPAO DO CIPO",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/05/2027",
+   "o": "Constitui objeto do presente Termo de Cooperação Técnica a conjugação de esforços entre os partícipes a fim de possibilitar a colaboração mútua, visando à execução de serviços de recuperação de estradas vicinais, desassoreamento de rios e córregos, remoção de materiais e reconstruções de pontilhões e demais serviços originados de desastres climáticos, mediante disponibilização de horas máquinas, conforme ordem de serviço a ser emitida pela SEAPI, para atendimento aos municípios em situação de emergência ou calamidade pública, ocasionadas por desastres climáticos que interfiram na mobilidade e funcionamentos das comunidades rurais.",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3848",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE COLORADO",
+   "m": "COLORADO",
+   "vc": 0.0,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "Desenvolvimento de comunidade de prática para a valorização de resíduos sólidos orgânicos",
+   "ar": [
+    "Ambiental"
+   ],
+   "as": "16/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/2808",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE CONDOR",
+   "m": "CONDOR",
+   "vc": 50000.0,
+   "vi": "27/10/2026",
+   "vf": "26/10/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município",
+   "ar": [
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "22/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3249",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE CRISTAL",
+   "m": "CRISTAL",
+   "vc": 75722.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "27/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3821",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE CRUZEIRO DO SUL",
+   "m": "CRUZEIRO DO SUL",
+   "vc": 0.0,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "Desenvolvimento de comunidade de prática para a valorização de resíduos sólidos orgânicos",
+   "ar": [
+    "Ambiental"
+   ],
+   "as": "16/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3837",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "MUNICIPIO DE ELDORADO DO SUL",
+   "m": "ELDORADO DO SUL",
+   "vc": 0.0,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "Desenvolvimento de comunidade de prática para a valorização de resíduos sólidos orgânicos",
+   "ar": [
+    "Ambiental"
+   ],
+   "as": "16/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4507",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "MUNICIPIO DE ELDORADO DO SUL",
+   "m": "ELDORADO DO SUL",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/05/2027",
+   "o": "Constitui objeto do presente Termo de Cooperação Técnica a conjugação de esforços entre os partícipes a fim de possibilitar a colaboração mútua, visando à execução de serviços de recuperação de estradas vicinais, desassoreamento de rios e córregos, remoção de materiais e reconstruções de pontilhões e demais serviços originados de desastres climáticos, mediante disponibilização de horas máquinas, conforme ordem de serviço a ser emitida pela SEAPI, para atendimento aos municípios em situação de emergência ou calamidade pública, ocasionadas por desastres climáticos que interfiram na mobilidade e funcionamentos das comunidades rurais.",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3263",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE SISTEMAS PENAL E SOCIOEDUCATIVO",
+   "cv": "SIDINEI LORENZI & CIA LTDA",
+   "m": "ENCANTADO",
+   "vc": 0.0,
+   "vi": "06/11/2026",
+   "vf": "06/11/2031",
+   "o": "Utilização de mão de obra prisional.",
+   "ar": [
+    "Obras e infraestrutura"
+   ],
+   "as": "06/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3284",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "MUNICIPIO DE ESTANCIA VELHA",
+   "m": "ESTANCIA VELHA",
+   "vc": 240000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Promover o controle populacional de cães e gatos com castração, microchipagem e cadastro no SinPatinhas",
+   "ar": [
+    "Ambiental",
+    "Proteção animal"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3897",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE EUGENIO DE CASTRO",
+   "m": "EUGENIO DE CASTRO",
+   "vc": 100000.0,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Execução de Custeio das atividades de realização do projeto Grupo de Idosos - Vida em Movimento em Eugênio de Castro/RS",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4288",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "PREF MUN DE FORTALEZA DOS VALOS",
+   "m": "FORTALEZA DOS VALOS",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2031",
+   "o": "O Termo de Cooperação tem por objeto a execução das ações do Estado para o Fomento à Produção Animal, à Defesa Sanitária, à Zootecnia, à Inspeção e à Fiscalização de Produtos de Origem Animal, justificando-se pela necessidade de incrementar a realização dos serviços de inspeção sanitária e industrial de produtos de origem animal, e de fiscalização e defesa sanitária animal, no Município, por meio da Inspetoria de Defesa Agropecuária responsável pelo Município, atividades estas que se constituem na meta do presente Termo e serão diretamente supervisionadas pela Coordenadoria Regional responsável pela Região.",
+   "ar": [
+    "Tributário e fiscal",
+    "Agropecuária e rural",
+    "Economia, trabalho e empresas",
+    "Proteção animal"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3742",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE GLORINHA",
+   "m": "GLORINHA",
+   "vc": 84775.2,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Aquisição de equipamentos e materiais e a contratação de oficinas de coral e musicalização para o Município de Glorinha.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3995",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE ILOPOLIS",
+   "m": "ILOPOLIS",
+   "vc": 100000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Capacitar idosos por meio de tecnologia digital, promover inclusão social e diminuir golpes virtuais",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Ciência, tecnologia e inovação",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4544",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "MUNICIPIO DE ILOPOLIS",
+   "m": "ILOPOLIS",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/05/2027",
+   "o": "Realizar a perfuração de 02 (dois) poços tubulares nas localidades de Linha Santos Filho e Linha Terceira, com maquinário do Departamento de Infraestrutura Rural, Irrigação e Usos Múltiplos da Água – DINFRA.",
+   "ar": [
+    "Água e saneamento",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4101",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE ITATI",
+   "m": "ITATI",
+   "vc": 100000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "O presente projeto visa a celebração de um convenio com FUNEPI para ações voltadas aos direitos da pessoa idosa.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Administração e orçamento"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3190",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE NOVA BOA VISTA",
+   "m": "NOVA BOA VISTA",
+   "vc": 50000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município",
+   "ar": [
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3941",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE SISTEMAS PENAL E SOCIOEDUCATIVO",
+   "cv": "LOG MAQUINAS LTDA",
+   "m": "NOVO HAMBURGO",
+   "vc": 0.0,
+   "vi": "06/11/2026",
+   "vf": "06/11/2031",
+   "o": "Utilização de mão de obra prisional.",
+   "ar": [
+    "Obras e infraestrutura"
+   ],
+   "as": "06/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/2633",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE PORTO ALEGRE",
+   "m": "PORTO ALEGRE",
+   "vc": 50000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Execução do evento cultural por meio de realização de shows artísticos, atividades culturais, de lazer e entretenimento.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3085",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "IRMANDADE SANTA CASA MISERICORDIA PORTO ALEGRE",
+   "m": "PORTO ALEGRE",
+   "vc": 1235079.26,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Aquisição e instalação de equipamentos de TI para modernização da UTI, Centro Cirúrgico e Centro de Imagem do PPF.",
+   "ar": [
+    "Saúde"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4464",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "PREF MUN DE RIO PARDO",
+   "m": "RIO PARDO",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/05/2027",
+   "o": "Constitui objeto do presente Termo de Cooperação Técnica a conjugação de esforços entre os partícipes a fim de possibilitar a colaboração mútua, visando à execução de serviços de recuperação de estradas vicinais, desassoreamento de rios e córregos, remoção de materiais e reconstruções de pontilhões e demais serviços originados de desastres climáticos, mediante disponibilização de horas máquinas, conforme ordem de serviço a ser emitida pela SEAPI, para atendimento aos municípios em situação de emergência ou calamidade pública, ocasionadas por desastres climáticos que interfiram na mobilidade e funcionamentos das comunidades rurais.",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/3939",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE SISTEMAS PENAL E SOCIOEDUCATIVO",
+   "cv": "HOLIVEIRA ALIMENTOS CONGELADOS LTDA",
+   "m": "SANTA MARIA",
+   "vc": 0.0,
+   "vi": "06/11/2026",
+   "vf": "06/11/2031",
+   "o": "Utilização de mão de obra prisional.",
+   "ar": [
+    "Obras e infraestrutura"
+   ],
+   "as": "06/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4638",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "MUNICIPIO DE SEDE NOVA",
+   "m": "SEDE NOVA",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2031",
+   "o": "O Termo de Cooperação tem por objeto a execução das ações do Estado para o Fomento à Produção Animal, à Defesa Sanitária, à Zootecnia, à Inspeção e à Fiscalização de Produtos de Origem Animal, justificando-se pela necessidade de incrementar a realização dos serviços de inspeção sanitária e industrial de produtos de origem animal, e de fiscalização e defesa sanitária animal, no Município, por meio da Inspetoria de Defesa Agropecuária responsável pelo Município, atividades estas que se constituem na meta do presente Termo e serão diretamente supervisionadas pela Coordenadoria Regional responsável pela Região.",
+   "ar": [
+    "Tributário e fiscal",
+    "Agropecuária e rural",
+    "Economia, trabalho e empresas",
+    "Proteção animal"
+   ],
+   "as": "19/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "C 2026/4149",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE SISTEMAS PENAL E SOCIOEDUCATIVO",
+   "cv": "NEREU F. VARGAS & FILHOS LTDA",
+   "m": "VACARIA",
+   "vc": 0.0,
+   "vi": "06/11/2026",
+   "vf": "06/11/2031",
+   "o": "O presente Termo de Cooperação tem por objeto a utilização de mão de obra da pessoa presa.",
+   "ar": [
+    "Obras e infraestrutura"
+   ],
+   "as": "06/11/2026",
+   "tp": "",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "P 2026/1913",
+   "t": "Parceria",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "ASSOC ZONA NOVA FUTEBOL CLUBE",
+   "m": "CAPAO DA CANOA",
+   "vc": 100000.0,
+   "vi": "16/11/2026",
+   "vf": "12/03/2027",
+   "o": "Cercamento em placa de concreto pré fabricado, placa 4,00 m x 1,00 m, fornecimento e instalação. Estaca broca de concreto, doametro 25 cm, Tela 15 x 5 fio 2,30 Alt. 1,20",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "12/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "P 2026/3753",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC DE P E A DOS DEF AUDIT DE PASSO FUNDO",
+   "m": "PASSO FUNDO",
+   "vc": 95613.64,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Promoção do envelhecimento ativo e saudável, e da defesa dos direitos da pessoa idosa, por meio da melhoria da estrutura e da ampliação e qualificação dos atendimentos prestados à pessoa idosa.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-20"
+  },
+  {
+   "k": "P 2026/4245",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CIRANDAR CENTRO DE INTEGRACAO DE REDES",
+   "m": "PORTO ALEGRE",
+   "vc": 50000.0,
+   "vi": "19/11/2026",
+   "vf": "18/05/2027",
+   "o": "Incentivar a cultura através da realização do CICLO DE SEMINÁRIOS, composto por quatro seminários e quatro saraus culturais, a fim de fomentar a Pesquisa “Mulheres Poetas do RS - século XX”.",
+   "ar": [
+    "Mulher e combate à violência",
+    "Cultura, esporte e turismo",
+    "Ciência, tecnologia e inovação"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-20"
+  },
   {
    "k": "C 2026/1263",
    "t": "Convênio",
