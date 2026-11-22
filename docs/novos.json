@@ -1,6 +1,46 @@
 {
- "gerado_em": "2026-11-21T16:18-03:00",
+ "gerado_em": "2026-11-22T14:09-03:00",
  "novos": [
+  {
+   "k": "C 2025/1457",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "MUNICIPIO DE SOBRADINHO",
+   "m": "SOBRADINHO",
+   "vc": 94170.48,
+   "vi": "18/11/2026",
+   "vf": "18/11/2027",
+   "o": "O presente Convênio tem por objeto, promover a conservação de solo para atendimento de pequenos produtores agriculas.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Administração e orçamento",
+    "Obras e infraestrutura"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-22"
+  },
+  {
+   "k": "C 2025/3216",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE FONTOURA XAVIER",
+   "m": "FONTOURA XAVIER",
+   "vc": 31785.71,
+   "vi": "19/11/2026",
+   "vf": "19/11/2027",
+   "o": "Apoio e Desenvolvimento à Agroindústria Familiar no município de Fontoura Xavier, conforme plano de trabalho.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Economia, trabalho e empresas",
+    "Obras e infraestrutura"
+   ],
+   "as": "27/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-22"
+  },
   {
    "k": "C 2026/1638",
    "t": "Convênio",
