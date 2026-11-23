@@ -1,6 +1,76 @@
 {
- "gerado_em": "2026-11-22T14:09-03:00",
+ "gerado_em": "2026-11-23T18:25-03:00",
  "novos": [
+  {
+   "k": "P 2026/3059",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CENTRO DE TRADICOES GAUCHAS JOAO SOBRINHO",
+   "m": "CAPAO DA CANOA",
+   "vc": 50000.0,
+   "vi": "01/01/0100",
+   "vf": "19/09/2027",
+   "o": "Contratação de profissionais especializados para prestação de serviços de instrução em danças tradicionais gaúchas, mediante hora aula destinadas às Invernadas Artísticas Pré-Mirim, Mirim, Juvenil, Veterana e Xiru do CTG João Sobrinho. O projeto prevê 200 aulas, com duração de 2 (duas) horas cada, totalizando 400 horas de instrução, distribuídas igualmente entre as cinco invernadas, As atividades terão como finalidade a formação e o aperfeiçoamento técnico dos integrantes, a preservação e a transmissão da cultura tradicionalista gaúcha e a preparação dos grupos para apresentações, festivais, rodeios e demais eventos culturais.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "20/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-23"
+  },
+  {
+   "k": "P 2026/3485",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "ONG HOPE FILHOS DA ESPERANCA",
+   "m": "LAJEADO",
+   "vc": 50000.0,
+   "vi": "20/11/2026",
+   "vf": "23/05/2028",
+   "o": "Fomentar a cultura por meio da realização de oficinas de piano, violão e bateria, mediante a manutenção da estrutura necessária à execução das atividades. Serão realizadas aulas semanais de cada instrumento durante 12 meses.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "20/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-23"
+  },
+  {
+   "k": "P 2026/4429",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CTG QUERENCIA DE SAO BRAZ",
+   "m": "SANTO ANTONIO DAS MISSOES",
+   "vc": 50000.0,
+   "vi": "01/01/0100",
+   "vf": "30/11/2027",
+   "o": "Promover a valorização, a preservação e a difusão da cultura tradicional gaúcha por meio da realização de oficinas gratuitas de dança, gaita e violão e culinária campeira, da confecção de cartilhas educativas e do fortalecimento das invernadas artísticas do CTG Querência de São Brás, mediante a aquisição e confecção de indumentárias, com apresentações artísticas e culturais abertas à comunidade no Festival Raízes da Querência",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "20/11/2026",
+   "tp": "Termo Fomento",
+   "dt": "2026-11-23"
+  },
+  {
+   "k": "P 2026/4482",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "GREMIO RECREA ESC SAMBA ACADEMICOS MARTINICA",
+   "m": "VIAMAO",
+   "vc": 50000.0,
+   "vi": "20/11/2026",
+   "vf": "04/10/2027",
+   "o": "Aquisição de instrumentos musicais e equipamentos de sonorização destinados à qualificação, ampliação e fortalecimento das atividades culturais desenvolvidas pela escola de Samba Acadêmicos da Martinica para o Carnaval 2027, proporcionando melhores condições para ensaios, apresentações, atividades culturais e demais ações relacionadas à preservação e difusão da cultura carnavalesca e da cultura popular.",
+   "ar": [
+    "Educação",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "20/11/2026",
+   "tp": "Termo Fomento",
+   "dt": "2026-11-23"
+  },
   {
    "k": "C 2025/1457",
    "t": "Convênio",
