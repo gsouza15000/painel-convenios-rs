@@ -1,6 +1,632 @@
 {
- "gerado_em": "2026-11-23T18:25-03:00",
+ "gerado_em": "2026-11-24T17:10-03:00",
  "novos": [
+  {
+   "k": "C 2026/3050",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE AJURICABA",
+   "m": "AJURICABA",
+   "vc": 51428.57,
+   "vi": "19/11/2026",
+   "vf": "18/11/2028",
+   "o": "Melhoria na autonomia hidrica com implantação da infraestrutura e ligações de energia de poços artesianos nas propriedades rurais do municipio de Ajuricaba.",
+   "ar": [
+    "Ambiental",
+    "Água e saneamento",
+    "Energia",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "01/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3755",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE AJURICABA",
+   "m": "AJURICABA",
+   "vc": 81814.98,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Viabilizar ações para o Fortalecimento da Rede de Promoção,Proteção e Defesa dos Direitos da Pessoa Idosa .",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4031",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE ALMIRANTE TAMANDARE DO SUL",
+   "m": "ALM TAMANDARE DO SUL",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "22/01/2027",
+   "o": "Custeio de montagem e locação de palco e arquibancadas para os festejos natalinos no município.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "20/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3299",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE ALTO FELIZ",
+   "m": "ALTO FELIZ",
+   "vc": 68571.4,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Aquisição de Reservatórios D’água, objeto será incluso no patrimônio do município com numeração e placa de identificação",
+   "ar": [
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4027",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE ARVOREZINHA",
+   "m": "ARVOREZINHA",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Promover a qualidade de vida, autonomia e inclusão social de pessoas idosas em situação de vulnerabilidade no município",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3749",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE CAMAQUA",
+   "m": "CAMAQUA",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Aquisição de veículo 7 lugares para atendimento domiciliar e territorial na PSE de Média Complexidade.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Transportes e rodovias"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3770",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE CHARRUA",
+   "m": "CHARRUA",
+   "vc": 90000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Aquisição de veículo para atendimento e acompanhamento de cerca de 300 idosos para ações sociais e do Conselho do Idoso.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Transportes e rodovias"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3750",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE COLINAS",
+   "m": "COLINAS",
+   "vc": 83333.33,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Execução projeto de inclusão digital p/ pessoas idosas, p/ promover a autonomia, acesso a serviços e fortalecimento de v",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Ciência, tecnologia e inovação"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3757",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE DOUTOR RICARDO",
+   "m": "DOUTOR RICARDO",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Promover convivência, saúde e autonomia de pessoas idosas por meio de atividades semanais físicas, cognitivas e sociais.",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Saúde"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3977",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "PREF MUN DE ERVAL GRANDE",
+   "m": "ERVAL GRANDE",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "25/05/2027",
+   "o": "Fortalecer vínculos, através da aquisição de um veículo, para a melhoria da mobilidade, segurança e conforto dos idosos",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Transportes e rodovias"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/2812",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "MUNICIPIO DE ESTEIO",
+   "m": "ESTEIO",
+   "vc": 350000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Restauração e requalificação da Praça do Expedicionário, localizada na 24 de Agosto, esquina com Av. Dom Pedro, Bairro C",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4567",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE FELIZ",
+   "m": "FELIZ",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2031",
+   "o": "Delegação de Competência da Secretaria do Meio Ambiente e Infraestrutura e da Fundação Estadual de Proteção Ambiental Henrique Luiz Roessler ao Município para a realização da gestão da flora nativa, através do licenciamento e fiscalização das atividades e empreendimentos localizados dentro dos limites do Município, cuja vegetação açambarca as restrições impostas pela Lei nº. 11.428, de 22 de dezembro de 2006, denominada Lei da Mata Atlântica, regulamentada pelo Decreto nº 6.660, de 21 de Novembro de 2008, bem como estabelecer procedimentos com vistas à preservação, à conservação, à recuperação e à melhoria do meio ambiente.",
+   "ar": [
+    "Tributário e fiscal",
+    "Ambiental",
+    "Economia, trabalho e empresas",
+    "Administração e orçamento",
+    "Homenagens e datas",
+    "Obras e infraestrutura"
+   ],
+   "as": "11/11/2026",
+   "tp": "",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/2772",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "MUNICIPIO DE GLORINHA",
+   "m": "GLORINHA",
+   "vc": 80000.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2028",
+   "o": "Contratação de empresa especializada na implantação de grama sintética esportiva na quadra do Loteamento Bela Vista",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Habitação e urbanismo",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3926",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "PREF MUN DE HERVAL",
+   "m": "HERVAL",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "22/11/2027",
+   "o": "Apoiar a realização e estruturação do rodeio internacional de Herval.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4080",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE HUMAITA",
+   "m": "HUMAITA",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "22/11/2027",
+   "o": "Fortalecer vínculos sociais, ampliar acesso à informação e garantir direitos da pessoa idosa com ações contínuas.",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4013",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE JAGUARI",
+   "m": "JAGUARI",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "22/11/2027",
+   "o": "Contratação de serviços de ginástica funcional e dança para atendimento descentralizado a idosos da zona rural",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Agropecuária e rural"
+   ],
+   "as": "17/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/2834",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE MARIANA PIMENTEL",
+   "m": "MARIANA PIMENTEL",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "23/03/2028",
+   "o": "Aquisição de instrumentos musicais para a Banda Municipal de Mariana Pimentel, visando o fomento à cultura local",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/2324",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE OSORIO",
+   "m": "OSORIO",
+   "vc": 49999.99,
+   "vi": "27/10/2026",
+   "vf": "26/10/2028",
+   "o": "Unidade Modular em Isopainel - Container",
+   "ar": [
+    "Agropecuária e rural",
+    "Assistência social"
+   ],
+   "as": "22/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/4481",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE SANTA VITORIA DO PALMAR",
+   "m": "SANTA VITORIA DO PALMAR",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "22/11/2027",
+   "o": "Aquisição de Instrumentos Musicais para Banda Marcial da EMEF Prof. Aresmi Juraci Tavares Rodrigues.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3274",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE SAO VENDELINO",
+   "m": "SAO VENDELINO",
+   "vc": 67724.56,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Aq de tanques de polietileno,os bens a serem ad serão inclusos no patrimônio do municipio com nº e placa d identificação",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "27/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "C 2026/3724",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE TUPANDI",
+   "m": "TUPANDI",
+   "vc": 69666.66,
+   "vi": "23/11/2026",
+   "vf": "22/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa dos direitos de pessoas idosas por meio de atividades.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/1042",
+   "t": "Parceria",
+   "cc": "SECRETARIA DO ESPORTE E LAZER",
+   "cv": "ASSOCIAO DE VOLEIBOL DE GUAIBA",
+   "m": "GUAIBA",
+   "vc": 49873.6,
+   "vi": "11/11/2026",
+   "vf": "03/11/2027",
+   "o": "Aluguel de quadras para aulas de voleibol no projeto ”VÔLEI PARA TODOS ANO V”",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Habitação e urbanismo",
+    "Cultura, esporte e turismo"
+   ],
+   "as": "03/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/3189",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "GRUPO DE EDUCACAO E BENEFICIENCIA GEB",
+   "m": "ROSARIO DO SUL",
+   "vc": 96867.01,
+   "vi": "23/11/2026",
+   "vf": "22/11/2028",
+   "o": "Qualificar o atendimento através das oficinas e entrega de kits às famílias em situação de vulnerabilidade social.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/3896",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MITRA DA ARQUIDIOCESE DE PORTO ALEGRE",
+   "m": "PORTO ALEGRE",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "24/07/2027",
+   "o": "Qualificar o espaço de execução dos serviços socioassistenciais por meio da revitalização da pintura interna e externa do prédio.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Assistência social"
+   ],
+   "as": "18/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4029",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC P A EXCEP DE URUGUAIANA",
+   "m": "URUGUAIANA",
+   "vc": 100000.0,
+   "vi": "20/10/2026",
+   "vf": "22/02/2028",
+   "o": "Executar o serviço de Proteção Social Especial para Pessoas com Deficiências, Idosas e suas Famílias em conformidade com a Politica Nacional da Assistência Social (PNAS) e Sistema Único de Assistência Social (SUAS) e as normativas vigentes.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência",
+    "Ciência, tecnologia e inovação",
+    "Assistência social"
+   ],
+   "as": "07/10/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4152",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC PAIS E AMIGOS EXCEPC SAO JOSE DO NORTE",
+   "m": "SAO JOSE DO NORTE",
+   "vc": 156700.0,
+   "vi": "23/11/2026",
+   "vf": "22/02/2028",
+   "o": "Executar o serviço de proteção social especial para pessoas com deficiências, idosas e suas famílias em conformidade com a Política Nacional de Assistência Social (PNAS) e o Sistema Único de Assistência Social (SUAS) e as normativas vigentes.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência",
+    "Ciência, tecnologia e inovação",
+    "Assistência social"
+   ],
+   "as": "23/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4171",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "CLUBE MAES STA RITA DE CASSIA",
+   "m": "CAXIAS DO SUL",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Fortalecer e qualificar os atendimentos as pessoas idosas por meio da aquisição de materiais permanentes.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4173",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC AFRO CULTURAL E BENEFICIENTE DE MAT",
+   "m": "ALVORADA",
+   "vc": 49997.76,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "O presente projeto tem como objeto a manutenção, estruturação e ampliação das atividades da cozinha solidária São Jerônimo, destinada à produção e distribuição gratuita de refeições para pessoas e famílias em situação de vulnerabilidade social, bem como à realização de oficinas, cursos de qualificação profissional, ação de educação alimentar, geração de renda fortalecimento comunitário.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Educação",
+    "Obras e infraestrutura",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4367",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC DE PAIS AMIGOS EXCEP BOM RETIRO DO SUL",
+   "m": "BOM RETIRO DO SUL",
+   "vc": 290000.0,
+   "vi": "23/11/2026",
+   "vf": "23/05/2028",
+   "o": "Executar o Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias, em conformidade com a Política Nacional de Assistência Social (PNAS) e o Sistema Único de Assistência Social (SUAS) e as normativas vigentes.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Pessoa idosa e com deficiência",
+    "Ciência, tecnologia e inovação",
+    "Assistência social"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4376",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASILO AMPARO VELHICE FAMILIA GUSTAVO NORDLUND",
+   "m": "PORTO ALEGRE",
+   "vc": 100000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Qualificar e fortalecer os atendimentos para as pessoas idosas acolhidas por meio da aquisiçao de alirnentos,",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4451",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC EVANG LUTERANA DE BENEFICIENCIA",
+   "m": "GRAMADO",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Ofertar qualificação tecnológica e inclusão cidadã de crianças e adolescentes, por meio de oficinas socioeducativas.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Infância e juventude",
+    "Ciência, tecnologia e inovação"
+   ],
+   "as": "17/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4549",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "AMPARO SANTA CRUZ ORIONOPOLIS",
+   "m": "PORTO ALEGRE",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Fortalecer a autonomia , inclusão social e inclusão produtiva, por meio de oficinas",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Assistência social"
+   ],
+   "as": "23/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4580",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CENTRO DE TRADICOES GAUCHAS VINTE DE SETEMBRO",
+   "m": "BOQUEIRAO DO LEAO",
+   "vc": 50000.0,
+   "vi": "23/11/2026",
+   "vf": "26/09/2027",
+   "o": "Raízes da Tradição: Realização da 44ª Edição do Rodeio Crioulo e Aulas de Montaria",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "23/11/2026",
+   "tp": "Termo Fomento",
+   "dt": "2026-11-24"
+  },
+  {
+   "k": "P 2026/4680",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "ASSOC DE PAIS E AMIGOS DOS EXCEPCIONAIS DE MOR",
+   "m": "MORRO REDONDO",
+   "vc": 99999.96,
+   "vi": "23/11/2026",
+   "vf": "23/11/2027",
+   "o": "Executar o serviço de média complexidade nos moldes da tipificação das resoluções N° 109, de 11 de Novembro de 2009 e N° 13, de 13 de Maio de 2014 do Conselho Nacional de Assistência Social, realizando no mínimo 4000 atendimentos/mes.",
+   "ar": [
+    "Direitos humanos e minorias",
+    "Assistência social"
+   ],
+   "as": "19/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-24"
+  },
   {
    "k": "P 2026/3059",
    "t": "Parceria",
