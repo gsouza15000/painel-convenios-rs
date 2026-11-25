@@ -1,6 +1,178 @@
 {
- "gerado_em": "2026-11-24T17:10-03:00",
+ "gerado_em": "2026-11-25T16:15-03:00",
  "novos": [
+  {
+   "k": "C 2026/3559",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE BROCHIER",
+   "m": "BROCHIER",
+   "vc": 68571.4,
+   "vi": "19/11/2026",
+   "vf": "18/11/2027",
+   "o": "Fortalecimento da Agricultura Familiar no combate a estiagem.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "29/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/4443",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE CERRO BRANCO",
+   "m": "CERRO BRANCO",
+   "vc": 100000.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2027",
+   "o": "EDITAL 01/2026 - FUNEPI - Conviver Bem: Envelhecimento Ativo e Saudável no Município de Cerro Branco.",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "20/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/4411",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE FARROUPILHA",
+   "m": "FARROUPILHA",
+   "vc": 65769.23,
+   "vi": "24/11/2026",
+   "vf": "24/11/2027",
+   "o": "Promover estimulação cognitiva, convivência intergeracional, fortalecendo direitos e participação social da pessoa idosa",
+   "ar": [
+    "Pessoa idosa e com deficiência",
+    "Assistência social"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/4100",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE FORTALEZA DOS VALOS",
+   "m": "FORTALEZA DOS VALOS",
+   "vc": 117417.0,
+   "vi": "24/11/2026",
+   "vf": "24/11/2027",
+   "o": "Estruturação da infraestrutura municipal de telecomunicações por meio da implantação de rede troncal de fibra óptica, promovendo a expansão do acesso aos serviços de internet e telefonia em áreas rurais",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Consumidor e serviços",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/2927",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE IVOTI",
+   "m": "IVOTI",
+   "vc": 48979.0,
+   "vi": "24/11/2026",
+   "vf": "24/11/2027",
+   "o": "Melhoria da Infraestrutura para a Agricultura Familiar, no município de Ivoti, conforme plano de trabalho.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Economia, trabalho e empresas",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/3265",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE SANTA CRUZ DO SUL",
+   "m": "SANTA CRUZ DO SUL",
+   "vc": 91000.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2028",
+   "o": "Oficinas de música, teatro e dança em Rio Pardinho, com apresentação final, e cultura itinerante MovCEU no interior.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/4138",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE TAPES",
+   "m": "TAPES",
+   "vc": 53455.85,
+   "vi": "24/11/2026",
+   "vf": "24/11/2027",
+   "o": "Melhoria da infraestrutura para a agricultura familiar no município de Tapes.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "24/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "C 2026/3951",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE TUPANDI",
+   "m": "TUPANDI",
+   "vc": 68571.4,
+   "vi": "24/11/2026",
+   "vf": "23/11/2027",
+   "o": "Aquisição reservatórios de água- o objeto será incluso no patrimônio do município com numeração e placa de identificação",
+   "ar": [
+    "Ambiental",
+    "Água e saneamento",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-25"
+  },
+  {
+   "k": "P 2026/4405",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CTG CORACAO DO RIO GRANDE",
+   "m": "FAXINAL DO SOTURNO",
+   "vc": 50000.0,
+   "vi": "24/11/2026",
+   "vf": "30/11/2027",
+   "o": "Fomentar a cultura tradicionalista por meio da participação da invernada mirim, do CTG Coração do Rio Grande em apresentações artísticas, junto ao festival FESTMIRIM, mediante a capacitação da invernada através de oficinas de dança com duração de 10 meses.",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "24/11/2026",
+   "tp": "Termo Fomento",
+   "dt": "2026-11-25"
+  },
   {
    "k": "C 2026/3050",
    "t": "Convênio",
