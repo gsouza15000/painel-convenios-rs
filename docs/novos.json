@@ -1,6 +1,338 @@
 {
- "gerado_em": "2026-11-25T16:15-03:00",
+ "gerado_em": "2026-11-26T16:00-03:00",
  "novos": [
+  {
+   "k": "C 2026/1391",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE JARI",
+   "m": "JARI",
+   "vc": 64962.41,
+   "vi": "24/11/2026",
+   "vf": "22/11/2028",
+   "o": "Melhoria da frota para garantir o deslocamento das equipes técnicas do município de Jari.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4045",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE BARRA FUNDA",
+   "m": "BARRA FUNDA",
+   "vc": 26373.61,
+   "vi": "24/11/2026",
+   "vf": "17/05/2028",
+   "o": "Apoio ao desenvolvimento da agricultura familiar por meio da aquisição de insumos agrícolas, com ênfase na permanência do jovem no campo.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4014",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE BOM PRINCIPIO",
+   "m": "BOM PRINCIPIO",
+   "vc": 64157.65,
+   "vi": "24/11/2026",
+   "vf": "23/11/2027",
+   "o": "Ampliar a capacidade de armazenamento de água nas propriedades rurais do Município através da aquisição de reservatórios.",
+   "ar": [
+    "Ambiental",
+    "Água e saneamento",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3499",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE CAMAQUA",
+   "m": "CAMAQUA",
+   "vc": 50000.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2028",
+   "o": "Aquisição e implantação de biodigestor para transformação de resíduos do Canil Municipal em biofertilizante.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Proteção animal",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3462",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "HOSP DE CARIDADE DE CANGUCU",
+   "m": "CANGUCU",
+   "vc": 0.0,
+   "vi": "19/11/2026",
+   "vf": "18/11/2031",
+   "o": "PARA A REALIZAÇÃO DE PROCEDIMENTOS HEMOTERÁPICOS PARA A PRODUÇÃO DE HEMOCOMPONENTES.",
+   "ar": [],
+   "as": "17/11/2026",
+   "tp": "",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4664",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "MUNICIPIO DE ESTANCIA VELHA",
+   "m": "ESTANCIA VELHA",
+   "vc": 0.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2031",
+   "o": "Delegação de Competência da Secretaria do Meio Ambiente e Infraestrutura e da Fundação Estadual de Proteção Ambiental Henrique Luiz Roessler ao Município para a realização da gestão da flora nativa, através do licenciamento e fiscalização das atividades e empreendimentos localizados dentro dos limites do Município, cuja vegetação açambarca as restrições impostas pela Lei nº. 11.428, de 22 de dezembro de 2006, denominada Lei da Mata Atlântica, regulamentada pelo Decreto nº 6.660, de 21 de Novembro de 2008, bem como estabelecer procedimentos com vistas à preservação, à conservação, à recuperação e à melhoria do meio ambiente.",
+   "ar": [
+    "Tributário e fiscal",
+    "Ambiental",
+    "Economia, trabalho e empresas",
+    "Administração e orçamento",
+    "Homenagens e datas",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3287",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE FELIZ",
+   "m": "FELIZ",
+   "vc": 68571.4,
+   "vi": "24/11/2026",
+   "vf": "24/11/2028",
+   "o": "Fortalecimento da agricultura familiar no combate a estiagem.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/2494",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE FORTALEZA DOS VALOS",
+   "m": "FORTALEZA DOS VALOS",
+   "vc": 160000.0,
+   "vi": "25/11/2026",
+   "vf": "24/11/2027",
+   "o": "Promover a regularização poços tubulares subterrâneos previamente selecionados Prog. Estadual de Regularização de Poços",
+   "ar": [
+    "Agropecuária e rural",
+    "Reconstrução e calamidade"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4794",
+   "t": "Convênio",
+   "cc": "DETRAN",
+   "cv": "MUNICIPIO DE LAJEADO DO BUGRE",
+   "m": "LAJEADO DO BUGRE",
+   "vc": 0.0,
+   "vi": "25/11/2026",
+   "vf": "24/11/2031",
+   "o": "A delegação recíproca das competências de fiscalização de trânsito e lavratura de autos de infrações de trânsito e, em sendo o caso, da aplicação das medidas administrativas e penalidades decorrentes, na circunscrição territorial do município que vier a aderir a este Termo de Convênio, através do ANEXO I, previstas no Código de Trânsito Brasileiro - CTB, normas do Conselho Nacional de Trânsito – CONTRAN, Secretaria Nacional de Trânsito – SENATRAN, e Conselho Estadual de Trânsito – CETRAN/RS; O estabelecimento de normas operacionais de acesso aos sistemas informatizados do DETRAN/RS para o lançamento de autos de infrações de trânsito, geração de termos de consistência, emissões de notificações, avisos e demais procedimentos decorrentes, assim como no tocante ao processo de arrecadação, compensação e repasse dos valores de cobrança de multas de trânsito aplicada, bem como procedimentos relacionados ao processo de suspensão do direito de dirigir.",
+   "ar": [
+    "Tributário e fiscal",
+    "Transportes e rodovias",
+    "Servidores e previdência",
+    "Administração e orçamento",
+    "Consumidor e serviços"
+   ],
+   "as": "03/09/2026",
+   "tp": "",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4231",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "MUNICIPIO DE MONTENEGRO",
+   "m": "MONTENEGRO",
+   "vc": 108270.67,
+   "vi": "25/11/2026",
+   "vf": "24/11/2027",
+   "o": "Implantar o controle populacional de cães e gatos através da realização de esterilização cirúrgica e microchipagem.",
+   "ar": [
+    "Ambiental",
+    "Saúde",
+    "Proteção animal"
+   ],
+   "as": "24/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3996",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE PARAISO DO SUL",
+   "m": "PARAISO DO SUL",
+   "vc": 114274.29,
+   "vi": "24/11/2026",
+   "vf": "23/11/2028",
+   "o": "Aumento de autonomia hídrica de 500 propriedades rurais,com aquisição de materiais para ampliação do sistema de captação",
+   "ar": [
+    "Ambiental",
+    "Água e saneamento",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3278",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE PARECI NOVO",
+   "m": "PARECI NOVO",
+   "vc": 68571.4,
+   "vi": "24/11/2026",
+   "vf": "23/11/2027",
+   "o": "Desenvolvimento Rural Sustentável da Agricultura Familiar do Município",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4649",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE RELVADO",
+   "m": "RELVADO",
+   "vc": 0.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2031",
+   "o": "Delegação de Competência da Secretaria do Meio Ambiente e Infraestrutura e da Fundação Estadual de Proteção Ambiental Henrique Luiz Roessler ao Município para a realização da gestão da flora nativa, através do licenciamento e fiscalização das atividades e empreendimentos localizados dentro dos limites do Município, cuja vegetação açambarca as restrições impostas pela Lei nº. 11.428, de 22 de dezembro de 2006, denominada Lei da Mata Atlântica, regulamentada pelo Decreto nº 6.660, de 21 de Novembro de 2008, bem como estabelecer procedimentos com vistas à preservação, à conservação, à recuperação e à melhoria do meio ambiente.",
+   "ar": [
+    "Tributário e fiscal",
+    "Ambiental",
+    "Economia, trabalho e empresas",
+    "Administração e orçamento",
+    "Homenagens e datas",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/4002",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE SAO JOSE DO HORTENCIO",
+   "m": "SAO JOSE DO HORTENCIO",
+   "vc": 68571.4,
+   "vi": "24/11/2026",
+   "vf": "23/11/2027",
+   "o": "Estruturação da captação e armazenamento de água em caixas d’água visando mitigar os efeitos dos períodos de estiagem",
+   "ar": [
+    "Ambiental",
+    "Água e saneamento",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "18/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "C 2026/3929",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE SAO VALENTIM",
+   "m": "SAO VALENTIM",
+   "vc": 10000.0,
+   "vi": "25/11/2026",
+   "vf": "24/11/2027",
+   "o": "Promover a regularização poços tubulares subterrâneos previamente selecionados no Prog. Estadual de Regulariza poços.",
+   "ar": [
+    "Ambiental"
+   ],
+   "as": "25/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "P 2026/3241",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CENTRO DE TRADICOES GAUCHAS GALPAO DA SAUDADE",
+   "m": "SERAFINA CORREA",
+   "vc": 50000.0,
+   "vi": "01/01/0100",
+   "vf": "27/11/2027",
+   "o": "Reconstrução do Galpão para sediar ensaios e apresentações das invernadas artísticas do CTG Galpão da Saudade, bem como aulas de canto, chula e declamação.",
+   "ar": [
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "25/11/2026",
+   "tp": "Termo Fomento",
+   "dt": "2026-11-26"
+  },
+  {
+   "k": "P 2026/4394",
+   "t": "Parceria",
+   "cc": "SECRETARIA DE TRABALHO E DESENVOLVIMENTO PROFISSIONAL",
+   "cv": "FRATERNIDADE CRISTA ESPIRITA",
+   "m": "PORTO ALEGRE",
+   "vc": 150000.0,
+   "vi": "25/11/2026",
+   "vf": "25/11/2027",
+   "o": "Realização do Curso de Assadores/Churrasco, por meio de formação teórica e prática voltada à qualificação profissional, ao empreendedorismo e à geração de trabalho e renda no setor gastronômico, incluindo a contratação de instrutores e a aquisição de insumos, materiais de uso coletivo e apoio logístico necessários à execução das atividades.",
+   "ar": [
+    "Economia, trabalho e empresas",
+    "Assistência social"
+   ],
+   "as": "25/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-26"
+  },
   {
    "k": "C 2026/3559",
    "t": "Convênio",
