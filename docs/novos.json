@@ -1,6 +1,402 @@
 {
- "gerado_em": "2026-11-26T16:00-03:00",
+ "gerado_em": "2026-11-27T15:59-03:00",
  "novos": [
+  {
+   "k": "C 2026/1386",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE GENERAL CAMARA",
+   "m": "GENERAL CAMARA",
+   "vc": 50000.0,
+   "vi": "27/10/2026",
+   "vf": "26/10/2028",
+   "o": "Apoio e Desenvolvimento da Agricultura Familiar do Município de General Câmara.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "22/10/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/1592",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "ASSOC HOSP DE CARIDADE IJUI",
+   "m": "IJUI",
+   "vc": 0.0,
+   "vi": "17/11/2026",
+   "vf": "16/11/2031",
+   "o": "PARA A REALIZAÇÃO DE PROCEDIMENTOS HEMOTERÁPICOS PARA A PRODUÇÃO DE HEMOCOMPONENTES.",
+   "ar": [],
+   "as": "13/11/2026",
+   "tp": "",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/2892",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "ASSOC HOSP AGUDO",
+   "m": "AGUDO",
+   "vc": 1370756.29,
+   "vi": "25/11/2026",
+   "vf": "25/11/2027",
+   "o": "Reforma da Rede Elétrica e Instalação de Sistema de Proteção Contra Descargas Atmosférica – SPDA",
+   "ar": [
+    "Energia",
+    "Saúde",
+    "Obras e infraestrutura"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/2712",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE TURISMO",
+   "cv": "PREF MUN DE CAMBARA DO SUL",
+   "m": "CAMBARA DO SUL",
+   "vc": 742857.14,
+   "vi": "25/11/2026",
+   "vf": "24/12/2027",
+   "o": "Reforma e Ampliação Casa do Turista no municipio de Cambará do Sul - RS",
+   "ar": [
+    "Cultura, esporte e turismo",
+    "Obras e infraestrutura"
+   ],
+   "as": "19/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3964",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "ASSOC HOSPL VILA NOVA",
+   "m": "CAMPO BOM",
+   "vc": 0.0,
+   "vi": "16/11/2026",
+   "vf": "15/11/2031",
+   "o": "PARA A REALIZAÇÃO DE PROCEDIMENTOS HEMOTERÁPICOS PARA A PRODUÇÃO DE HEMOCOMPONENTES.",
+   "ar": [],
+   "as": "12/11/2026",
+   "tp": "",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3835",
+   "t": "Convênio",
+   "cc": "SECRETARIA DO MEIO AMBIENTE E INFRAESTRUTURA",
+   "cv": "PREF MUN DE CAPITAO",
+   "m": "CAPITAO",
+   "vc": 0.0,
+   "vi": "26/11/2026",
+   "vf": "26/11/2027",
+   "o": "Desenvolvimento de comunidade de prática para a valorização de resíduos sólidos orgânicos",
+   "ar": [
+    "Ambiental"
+   ],
+   "as": "24/11/2026",
+   "tp": "",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3551",
+   "t": "Convênio",
+   "cc": "RG DO SUL SECRETARIA DE ESTADO DA CULTURA",
+   "cv": "MUNICIPIO DE CAXIAS DO SUL",
+   "m": "CAXIAS DO SUL",
+   "vc": 165000.0,
+   "vi": "26/11/2026",
+   "vf": "26/11/2027",
+   "o": "Premiação de dez entidades culturais ligadas à dança tradicionalista gaúcha por meio de Edital de Chamamento Público",
+   "ar": [
+    "Cultura, esporte e turismo"
+   ],
+   "as": "25/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/2754",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "PREF MUN DE CRISTAL",
+   "m": "CRISTAL",
+   "vc": 40000.0,
+   "vi": "26/11/2026",
+   "vf": "26/11/2028",
+   "o": "Melhoria da patrulha agrícola do município de Cristal.",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3950",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+   "cv": "MUNICIPIO DE GARRUCHOS",
+   "m": "GARRUCHOS",
+   "vc": 93500.0,
+   "vi": "25/11/2026",
+   "vf": "25/11/2027",
+   "o": "Fortalecimento da rede de promoção, proteção e defesa de direitos das pessoas idosas através da oferta de atividades",
+   "ar": [
+    "Pessoa idosa e com deficiência"
+   ],
+   "as": "24/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3918",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "PREF MUN DE HARMONIA",
+   "m": "HARMONIA",
+   "vc": 50000.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição de equipamentos para a Defesa Civil municipal-Emenda Dep Nadine",
+   "ar": [
+    "Ambiental",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3934",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "PREF MUN DE HARMONIA",
+   "m": "HARMONIA",
+   "vc": 50000.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição de equipamentos e materiais de proteção e segurança para Defesa Civil Municipal-emenda DepSantini",
+   "ar": [
+    "Ambiental",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3900",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "MUNICIPIO DE IGREJINHA",
+   "m": "IGREJINHA",
+   "vc": 157142.86,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição de equipamentos para modernização e fortalecimento das ações da Defesa Civil Municipal",
+   "ar": [
+    "Ambiental",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3737",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO RURAL",
+   "cv": "MUNICIPIO DE MARIANA PIMENTEL",
+   "m": "MARIANA PIMENTEL",
+   "vc": 50000.0,
+   "vi": "24/11/2026",
+   "vf": "23/11/2028",
+   "o": "Ampliação da capacidade produtiva de silagem",
+   "ar": [
+    "Ambiental",
+    "Agropecuária e rural",
+    "Obras e infraestrutura"
+   ],
+   "as": "16/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/4255",
+   "t": "Convênio",
+   "cc": "SECRETARIA DA AGRIC PEC PROD SUST E IRRIGACAO",
+   "cv": "PREF MUN DE MARQUES DE SOUZA",
+   "m": "MARQUES DE SOUZA",
+   "vc": 0.0,
+   "vi": "26/11/2026",
+   "vf": "25/05/2027",
+   "o": "Constitui objeto do presente Termo de Cooperação Técnica a conjugação de esforços entre os partícipes a fim de possibilitar a colaboração mútua, visando à execução de serviços de recuperação de estradas vicinais, desassoreamento de rios e córregos, remoção de materiais e reconstruções de pontilhões e demais serviços originados de desastres climáticos, mediante disponibilização de horas máquinas, conforme ordem de serviço a ser emitida pela SEAPI, para atendimento aos municípios em situação de emergência ou calamidade pública, ocasionadas por desastres climáticos que interfiram na mobilidade e funcionamentos das comunidades rurais.",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Agropecuária e rural",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3976",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "MUNICIPIO DE NOVA BRESCIA",
+   "m": "NOVA BRESCIA",
+   "vc": 50000.0,
+   "vi": "26/11/2026",
+   "vf": "26/05/2027",
+   "o": "GERADOR – igual ou superior a 50 kVA - trifásico, silenciado, carenado",
+   "ar": [
+    "Ambiental",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3101",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "HOSP NOSSA SENHORA DA PIEDADE",
+   "m": "NOVA PALMA",
+   "vc": 1300000.0,
+   "vi": "25/11/2026",
+   "vf": "25/11/2027",
+   "o": "Reforma da unidade funcional: Farmácia, administração/unidade de intervenção e urgência e emergência",
+   "ar": [
+    "Saúde",
+    "Obras e infraestrutura",
+    "Reconstrução e calamidade"
+   ],
+   "as": "23/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3321",
+   "t": "Convênio",
+   "cc": "RIO GRANDE DO SUL SECRETARIA DA SAUDE",
+   "cv": "HOSP DE CLINICAS DE PORTO ALEGRE",
+   "m": "PORTO ALEGRE",
+   "vc": 11557778.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2031",
+   "o": "Realização de Procedimentos Cirúrgicos de Implante Valvar Aórtico Percutâneo, incluindo a aquisição de insumos.",
+   "ar": [
+    "Saúde"
+   ],
+   "as": "25/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3970",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "PREF MUN DE SANTO ANTONIO DA PATRULHA",
+   "m": "SANTO ANTONIO DA PATRULHA",
+   "vc": 282857.14,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Reaparelhamento da Defesa Civil Municipal, a fim de garantir a segurança e o desenvolvimento social.",
+   "ar": [
+    "Ambiental",
+    "Assistência social",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/3993",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "MUNICIPIO DE SAO JERONIMO",
+   "m": "SAO JERONIMO",
+   "vc": 40000.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição de veículos ou equipamentos para a Coordenadoria Municipal de Proteção e Defesa Civil",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/2811",
+   "t": "Convênio",
+   "cc": "SECRETARIA DE DESENVOLVIMENTO URBANO E METROPO",
+   "cv": "MUNICIPIO DE TAPERA",
+   "m": "TAPERA",
+   "vc": 50000.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição e implantação de sinalização viária para qualificação do desenvolvimento urbano municipal.",
+   "ar": [
+    "Habitação e urbanismo"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "C 2026/4195",
+   "t": "Convênio",
+   "cc": "ESTADO DO RIO GRANDE DO SUL",
+   "cv": "MUNICIPIO DE TRIUNFO",
+   "m": "TRIUNFO",
+   "vc": 252213.0,
+   "vi": "26/11/2026",
+   "vf": "25/11/2027",
+   "o": "Aquisição de veículo (Viatura) Picape Cabine Dupla",
+   "ar": [
+    "Ambiental",
+    "Transportes e rodovias",
+    "Reconstrução e calamidade"
+   ],
+   "as": "26/11/2026",
+   "tp": "Voluntária",
+   "dt": "2026-11-27"
+  },
+  {
+   "k": "P 2026/3148",
+   "t": "Parceria",
+   "cc": "SECRETARIA DA CULTURA",
+   "cv": "CIRANDAR CENTRO DE INTEGRACAO DE REDES",
+   "m": "PORTO ALEGRE",
+   "vc": 200000.0,
+   "vi": "26/11/2026",
+   "vf": "22/09/2027",
+   "o": "A proposta visa a realização de dois seminários de formação, com a duração de oito horas (quatro turnos) para visitadores(as) e monitores(as) do Programa Primeira Infância Melhor (PIM) das cidades de Caxias do Sul e Santa Maria e imediações; a aquisição de 85 kits de livros (com 20 livros cada) para entrega às equipes do PIM das regiões atendidas; o acompanhamento mensal dos projetos realizados durante o semestre seguinte às formações.",
+   "ar": [
+    "Infância e juventude"
+   ],
+   "as": "16/11/2026",
+   "tp": "Termo Colaboração",
+   "dt": "2026-11-27"
+  },
   {
    "k": "C 2026/1391",
    "t": "Convênio",
